@@ -1,5 +1,5 @@
 {
-    "name": "amnah/yii2-user",
+    "name": "mynamekse/yii2-user",
     "description": "Yii 2 user authentication module",
     "keywords": ["yii", "yii2", "user", "auth", "authentication"],
     "type": "yii2-extension",
@@ -15,6 +15,6 @@
         "yiisoft/yii2-authclient": "*"
     },
     "autoload": {
-        "psr-4": { "amnah\\yii2\\user\\": "" }
+        "psr-4": { "mynamekse\\yii2\\user\\": "" }
     }
 }
